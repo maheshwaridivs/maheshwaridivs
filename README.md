@@ -1,4 +1,4 @@
-<h4> Software Developer - ERP Functional Consultant </h4>
+<h4> Software Developer </h4>
 I am Divya Maheshwari .
 <div>You can reach me out:
 <div>Linkedin: <b>https://www.linkedin.com/in/divya-maheshwari14/</b></div>
